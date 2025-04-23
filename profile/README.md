@@ -1,4 +1,4 @@
-# flowdevs.io
+# FlowDevs - Your North Star Automation Agency
 
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fflowdevs.io)](https://flowdevs.io) [![GitHub Org's Stars](https://img.shields.io/github/stars/flowdevs-io?style=social)](https://github.com/flowdevs-io)
 
