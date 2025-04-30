@@ -10,6 +10,5 @@ Welcome to **flowdevs.io**, the home of open-source workflow automation tools an
 
 - 🌐 Website & Docs: https://flowdevs.io  
 - 📂 Organization: https://github.com/flowdevs-io  
-- 📬 Community Chat: [Discord Invite](https://discord.gg/KxZzWFXUZm)
 
 ---
