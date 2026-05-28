@@ -133,8 +133,8 @@ An hour today saves 100 hours in two years.
 | 🌐 **Website** | [flowdevs.io](https://flowdevs.io) |
 | 📅 **Book a Call** | [bookings.flowdevs.io](https://bookings.flowdevs.io) |
 | 💬 **Discord** | [discord.flowdevs.io](https://discord.flowdevs.io) |
-| 📧 **Email** | [justin.trantham@flowdevs.io](mailto:justin.trantham@flowdevs.io) |
-| 📞 **Phone** | (612) 222-2397 |
+| 📧 **Email** | [clientsupport@flowdevs.io](mailto:clientsupport@flowdevs.io) |
+| 📞 **Phone** | 612-778-4432 |
 
 ---
 
